@@ -1,0 +1,6 @@
+creare table usuario{
+  nome nvarchar(100)
+}
+create table produtos{
+   id int
+}
